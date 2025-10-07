@@ -3,7 +3,7 @@
 🌱I am a Software engineering working on creating fun or interesting projects while being doing my masters!!<br>
 👯I am currently enjoying to learning about cloud implementation and software security. 
 <br>📚Learning AWS and general modern Approaches to websites, database and software desgin<br> 
-💬Please ask away about my projects<br>Fun Fact of the day I hated python until i went on Erasmus to H_da (Hochschule Darmstadt )<br>⚡C is the goat tho.... and javascript, with ajax fun. 
+💬Please ask away about my projects<br>Fun Fact of the day I hated python until I went on Erasmus to H_da (Hochschule Darmstadt )<br>⚡C is the goat tho.... and javascript, with ajax fun. 
 
 
 
