@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Greetings, My Name Is Darren,I am Based in Dublin Ireland <br>
+🔭Greetings, My Name Is Darren, I am Based in Dublin Ireland <br>
 🌱I am a Software engineering working on creating fun or interesting projects while being doing my masters!!<br>
 👯I am currently enjoying to learning about cloud implementation and software security. 
 <br>📚Learning AWS and general modern Approaches to websites, database and software desgin<br> 
